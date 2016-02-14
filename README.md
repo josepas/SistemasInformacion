@@ -1,4 +1,4 @@
-# SistemasInformacion
+# Sistemas de Informacion 1 con LM y Maria de Lourdes
 Repositorio para el Sistema de Gestion de Solicitudes de Planta Fisica
 
 # Para mantener una convivencia sana y una experiencia plena de trabajo colaborativo se sugiere:
