@@ -1,7 +1,11 @@
 # Sistemas de Informacion 1 con LM y Maria de Lourdes
 Repositorio para el Sistema de Gestion de Solicitudes de Planta Fisica
 
-# Para mantener una convivencia sana y una experiencia plena de trabajo colaborativo se sugiere:
+#### Como comenzar
+
+Lo que estara en este repositorio es lo que va en la carpeta applications de su ambiente de trabajo de web2py, descargan web2py, lo descomprimen y luego dentro de aplications clonan este repo.
+
+##### Para una convivencia sana y una experiencia plena de trabajo colaborativo se sugiere:
 
 Para los que quieran colaborar y no conozcan mucho git una buena ayuda para comenzar [aqui](http://rogerdudler.github.io/git-guide/index.es.html)
 
